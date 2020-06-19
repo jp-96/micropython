@@ -36,3 +36,6 @@
 [submodule "lib/nxp_driver"]
 	path = lib/nxp_driver
 	url = https://github.com/hathach/nxp_driver.git
+[submodule "extmod/ubleperipheral"]
+	path = extmod/ubleperipheral
+	url = https://github.com/jp-96/ubleperipheral.git
